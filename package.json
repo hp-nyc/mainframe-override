@@ -1,0 +1,20 @@
+{
+  "name": "mainframe-override",
+  "version": "1.0.0",
+  "description": "You've caught wind of an EmptyStack Solutions plan to break down the city's public transportation system! Someone on a popular online forum has bragged about much money they're going to make by investing in EmptyStack's latest model of self-driving taxi, claiming, \"My dad works there and he's got some serious inside intel.\" Hack into the mainframe again to sabotage their project before all the city's trains and buses grind to a halt!",
+  "homepage": "https://github.com/hp-nyc/mainframe-override#readme",
+  "bugs": {
+    "url": "https://github.com/hp-nyc/mainframe-override/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hp-nyc/mainframe-override.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "mainframe.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

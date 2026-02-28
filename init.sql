@@ -21,7 +21,7 @@ SET row_security = off;
 -- Name: mainframe_override; Type: DATABASE; Schema: -; Owner: -
 --
 
-CREATE DATABASE mainframe_override WITH TEMPLATE = template0 ENCODING = 'UTF8' LOCALE_PROVIDER = libc LOCALE = 'C';
+CREATE DATABASE mainframe_override WITH TEMPLATE = template0 ENCODING = 'UTF8' LOCALE = 'C';
 
 
 \connect mainframe_override
